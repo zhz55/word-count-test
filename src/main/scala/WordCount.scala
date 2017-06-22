@@ -7,7 +7,7 @@ import scala.io.Source
 object WordCount {
   def main(args: Array[String]): Unit = {
 
-    val words = Source.fromFile("D:\\110000.data").getLines().
+    val words = Source.fromFile("/Users/kasim/workspace/110000.data").getLines().
       map(line => line.split(",")(0)).map(word => (word, 1))
 
     words.toList.groupBy(_._1).map {
