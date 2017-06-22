@@ -13,11 +13,11 @@ object SparkTest {
     Logger.getLogger("org.apache.spark").setLevel(Level.WARN)
     Logger.getLogger("org.eclipse.jetty.server").setLevel(Level.OFF)
     val inputFile =  "D:\\110000.data"
-    val conf = new SparkConf().setAppName("WordCount").setMaster("yarn-client")
+    val conf = new SparkConf().setAppName("WordCount").setMaster("local[2]")
 
     val sc = new SparkContext(conf)
     val textFile = sc.textFile(inputFile)
-    val wordCount = textFile.flatMap(line => line.split(",")).map(word => (word, 1)).reduceByKey((a, b) => a + b)
+    val wordCount = textFile.map(line => line.split(",")(0)).map(word => (word, 1)).reduceByKey((a, b) => a + b)
     wordCount.foreach(println)
   }
 

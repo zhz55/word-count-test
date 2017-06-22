@@ -8,12 +8,12 @@ object WordCount {
   def main(args: Array[String]): Unit = {
 
     val words = Source.fromFile("D:\\110000.data").getLines().
-      flatMap(line => line.split(",")).map(word => (word, 1))
-    for(word<-words) println(word)
-    /*words.toList.groupBy(_._1).map {
+      map(line => line.split(",")(0)).map(word => (word, 1))
+
+    words.toList.groupBy(_._1).map {
       case (word, list) => (word, list.size)
     }.foreach(println)
-
+/*
     val wordsMap = scala.collection.mutable.Map[String, Int]()
     val lines = Source.fromFile("D:\\110000.data").getLines()
     lines.map(line => line.split(",")(0)).foreach(
