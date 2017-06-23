@@ -14,11 +14,10 @@ import org.apache.spark.streaming.kafka010.ConsumerStrategies.Subscribe
 
 object KafkaTest {
   def main(args: Array[String]): Unit = {
-    val ssc = new StreamingContext("local[2]", "KafkaSpark", Seconds(10))
+    val ssc = new StreamingContext("local[2]", "KafkaSpark", Seconds(5))
 
     val kafkaParms = Map[String, Object](
-      //"bootstrap.servers" -> "172.16.111.1:9092, 172.16.111.2:9092, 172.16.111.3:9092, 172.16.111.4:9092, 172.16.111.5:9092",
-      "bootstrap.servers" -> "10.1.88.151:9092",
+      "bootstrap.servers" -> "kf01:9092,kf02:9092",
       "key.deserializer" -> classOf[StringDeserializer],
       "value.deserializer" -> classOf[StringDeserializer],
       "group.id" -> "scala_kafka_test",
@@ -26,14 +25,14 @@ object KafkaTest {
       "enable.auto.commit" -> (false: java.lang.Boolean)
     )
 
-    val topics = Array("LWLK_POSITION", "HYPT_GNSS")
+    val topics = Array("LWLK_GNSS")
     val stream = KafkaUtils.createDirectStream[String, String](
       ssc,
       PreferConsistent,
       Subscribe[String, String](topics, kafkaParms)
     )
 
-    stream.map(_.value()).print()
+    stream.map(_.key()).print()
 
     //ssc.checkpoint("/Users/kasim/workspace/")
     ssc.start()
