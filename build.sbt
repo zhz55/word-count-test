@@ -10,6 +10,10 @@ libraryDependencies ++= Seq(
   "org.apache.spark" % "spark-streaming-kafka-0-10_2.11" % "2.1.1"
 )
 
+PB.targets in Compile := Seq(
+  scalapb.gen() -> (sourceManaged in Compile).value
+)
+
 // += "org.apache.kafka" % "kafka_2.11" % "0.10.2.0"
 
 //libraryDependencies += "org.apache.hadoop" %% "hadoop-common" % "2.6.0"
