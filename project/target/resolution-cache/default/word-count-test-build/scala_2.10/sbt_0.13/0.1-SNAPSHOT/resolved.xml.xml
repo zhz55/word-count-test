@@ -4,7 +4,7 @@
 		module="word-count-test-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170623124716"
+		publication="20170625173255"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
