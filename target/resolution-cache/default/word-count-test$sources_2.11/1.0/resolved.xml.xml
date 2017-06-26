@@ -4,7 +4,7 @@
 		module="word-count-test$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20170625195323"
+		publication="20170625220510"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
