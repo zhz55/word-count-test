@@ -42,10 +42,11 @@ object KafkaTest {
     stream.foreachRDD(rdd => {
       if(!rdd.isEmpty()) {
         rdd.foreachPartition(partitionRecords => {
-          partitionRecords.filter(data => {
-            VehiclePosition.parseFrom(data.value()).accessCode == positionRules.repeatFilter(data.partition())
-          }).map(record => (VehiclePosition.parseFrom(record.value()),
-            positionRules.positionJudge(VehiclePosition.parseFrom(record.value()))))
+          partitionRecords.map(record => (VehiclePosition.parseFrom(record.value()),
+              {if(VehiclePosition.parseFrom(record.value()).accessCode
+                == positionRules.repeatFilter(record.partition())) 0 else 1},
+              positionRules.positionJudge(VehiclePosition.parseFrom(record.value())))
+          )
         })
       }
     })
