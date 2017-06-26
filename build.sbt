@@ -17,3 +17,4 @@ PB.targets in Compile := Seq(
 // += "org.apache.kafka" % "kafka_2.11" % "0.10.2.0"
 
 //libraryDependencies += "org.apache.hadoop" %% "hadoop-common" % "2.6.0"
+libraryDependencies += "org.apache.kudu" % "kudu-client" % "1.2.0"

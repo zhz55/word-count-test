@@ -4,7 +4,7 @@
 		module="word-count-test_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20170625220436"
+		publication="20170626182205"
 	>
 		<description>
 		word-count-test
@@ -39,5 +39,6 @@
 		<dependency org="org.apache.spark" name="spark-core_2.11" rev="2.1.0" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-streaming_2.11" rev="2.1.1" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-streaming-kafka-0-10_2.11" rev="2.1.1" conf="compile->default(compile)"/>
+		<dependency org="org.apache.kudu" name="kudu-client" rev="1.2.0" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
