@@ -3,9 +3,18 @@ package rules
 /**
   * Created by Kasim on 2017/6/26.
   */
+import scala.util.matching.Regex.Match
+import scala.collection._
+
 import ctitc.seagoing.SEAGOING._
 
 class PositionRules() extends Serializable{
+
+  val provSet = Set("京","吉","辽","蒙","晋","冀",
+    "津","新","宁","青","甘","陕", "藏","云","贵",
+    "川","渝","琼", "桂","粤","湘","鄂","皖","鲁",
+    "赣","闽","豫","浙","苏","沪","黑")
+
   def repeatFilter(int:Int) : Int = {
     if(int == 1) 110000
     else if(int == 2) 120000
@@ -42,7 +51,26 @@ class PositionRules() extends Serializable{
     else 0
   }
 
+  // 1001 车牌长度小于6或大于10
+  // 1002 车牌第一位错误
+  // 1003 车牌不符合规则
+  // 1101 车牌颜色不是1,2,3,4,8,9
+  // 1202 经度错误
+  // 1203 纬度错误
+  // 1302 海拔低于负200米或高于6000米
+  // 1402 速度小于0或者大于160
+  // 1502 方向小于0或者大于360
+  // 1601 时间格式错误
+  // 1602 接收时间早于定位时间
   def positionJudge(vehiclePosition: VehiclePosition) : AnyVal = {
+    var rslt = new Array[Byte](12)
+    // 1001
+    if( (10 < vehiclePosition.vehicleNo.length()) || (vehiclePosition.vehicleNo.length() < 6)) rslt(0) = 1
+    else rslt(0) = 0
+    // 1002
+
+
+
 
   }
 }
