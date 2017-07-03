@@ -3,9 +3,10 @@ package rules
 /**
   * Created by Kasim on 2017/6/26.
   */
-import scala.util.matching.Regex.Match
-import scala.collection._
+import java.util.regex.Pattern
+import java.util.regex.Matcher
 
+import scala.collection._
 import ctitc.seagoing.SEAGOING._
 
 class PositionRules() extends Serializable{
@@ -108,8 +109,21 @@ class PositionRules() extends Serializable{
       }
 
       // 1003
-      Match m
+      Pattern p = Pattern.compile("^[A-Z]+[A-Z0-9]+[A-Z0-9挂学$]")
+      Matcher m = p.matcher(vehiclePosition.vehicleNo.substring(1).toUpperCase())
+      if(!m.matches()) {
+        stringBuilder.append("1")
+      } else stringBuilder.append("0")
+    } else {
+      stringBuilder.append("0")
+      stringBuilder.append("0")
     }
+
+    // 1101
+    if(((vehiclePosition.getPlateColor > 0)  && vehiclePosition.getPlateColor < 5) || vehiclePosition.getPlateColor == 8 || vehiclePosition.getPlateColor == 9) stringBuilder.append("0")
+    else stringBuilder.append("1")
+
+    // 1202
 
 
 
