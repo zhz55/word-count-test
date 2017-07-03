@@ -14,6 +14,37 @@ class PositionRules() extends Serializable{
     "津","新","宁","青","甘","陕", "藏","云","贵",
     "川","渝","琼", "桂","粤","湘","鄂","皖","鲁",
     "赣","闽","豫","浙","苏","沪","黑")
+  val provHashMap = immutable.HashMap[Int, String](110000 -> "京",
+    220000 -> "吉",
+    210000 -> "辽",
+    150000 -> "蒙",
+    140000 -> "晋",
+    130000 -> "冀",
+    120000 -> "津",
+    650000 -> "新",
+    640000 -> "宁",
+    630000 -> "青",
+    620000 -> "甘",
+    610000 -> "陕",
+    540000 -> "藏",
+    530000 -> "云",
+    520000 -> "贵",
+    510000 -> "川",
+    500000 -> "渝",
+    460000 -> "琼",
+    450000 -> "桂",
+    440000 -> "粤",
+    430000 -> "湘",
+    420000 -> "鄂",
+    340000 -> "皖",
+    370000 -> "鲁",
+    360000 -> "赣",
+    350000 -> "闽",
+    410000 -> "豫",
+    330000 -> "浙",
+    320000 -> "苏",
+    310000 -> "沪",
+    230000 -> "黑")
 
   def repeatFilter(int:Int) : Int = {
     if(int == 1) 110000
@@ -62,12 +93,25 @@ class PositionRules() extends Serializable{
   // 1502 方向小于0或者大于360
   // 1601 时间格式错误
   // 1602 接收时间早于定位时间
-  def positionJudge(vehiclePosition: VehiclePosition) : AnyVal = {
-    var rslt = new Array[Byte](12)
+  def positionJudge(vehiclePosition: VehiclePosition) : Any = {
+    val stringBuilder = new StringBuilder
     // 1001
-    if( (10 < vehiclePosition.vehicleNo.length()) || (vehiclePosition.vehicleNo.length() < 6)) rslt(0) = 1
-    else rslt(0) = 0
-    // 1002
+    if( (10 < vehiclePosition.vehicleNo.length()) || (vehiclePosition.vehicleNo.length() < 6)) stringBuilder.append("1")
+    else stringBuilder.append("0")
+
+    if(vehiclePosition.vehicleNo.length() > 0) {
+      // 1002
+      if(provHashMap.get(vehiclePosition.accessCode) == null || !provSet.contains(vehiclePosition.vehicleNo.substring(0, 1))) {
+        stringBuilder.append("1")
+      } else {
+        stringBuilder.append("0")
+      }
+
+      // 1003
+      Match m
+    }
+
+
 
 
 
