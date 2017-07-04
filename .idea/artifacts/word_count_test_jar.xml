@@ -127,6 +127,10 @@
       <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.apache.curator/curator-framework/bundles/curator-framework-2.4.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.glassfish.hk2/osgi-resource-locator/jars/osgi-resource-locator-1.0.1.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-tags_2.11/jars/spark-tags_2.11-2.1.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="SBT: com.trueaccord.lenses:lenses_2.11:0.4.12:jar" />
+      <element id="library" level="project" name="SBT: com.trueaccord.scalapb:protoc-bridge_2.11:0.2.6:jar" />
+      <element id="library" level="project" name="SBT: com.trueaccord.scalapb:compilerplugin_2.11:0.6.0-pre5:jar" />
+      <element id="library" level="project" name="SBT: com.trueaccord.scalapb:scalapb-runtime_2.11:0.6.0-pre5:jar" />
     </root>
   </artifact>
 </component>

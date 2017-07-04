@@ -7,7 +7,11 @@ scalaVersion := "2.11.11"
 libraryDependencies ++= Seq(
   "org.apache.spark" %% "spark-core" % "2.1.0",
   "org.apache.spark" % "spark-streaming_2.11" % "2.1.1",
-  "org.apache.spark" % "spark-streaming-kafka-0-10_2.11" % "2.1.1"
+  "org.apache.spark" % "spark-streaming-kafka-0-10_2.11" % "2.1.1",
+  "org.apache.hadoop" % "hadoop-common" % "2.6.0",
+  "org.apache.kudu" % "kudu-client" % "1.2.0",
+  "com.trueaccord.scalapb" %% "compilerplugin" % "0.6.0-pre5",
+  "com.trueaccord.scalapb" %% "scalapb-runtime" % com.trueaccord.scalapb.compiler.Version.scalapbVersion % "protobuf"
 )
 
 PB.targets in Compile := Seq(
@@ -15,6 +19,3 @@ PB.targets in Compile := Seq(
 )
 
 // += "org.apache.kafka" % "kafka_2.11" % "0.10.2.0"
-
-//libraryDependencies += "org.apache.hadoop" %% "hadoop-common" % "2.6.0"
-libraryDependencies += "org.apache.kudu" % "kudu-client" % "1.2.0"

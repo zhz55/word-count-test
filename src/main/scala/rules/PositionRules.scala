@@ -3,8 +3,8 @@ package rules
 /**
   * Created by Kasim on 2017/6/26.
   */
-import java.util.regex.Pattern
-import java.util.regex.Matcher
+
+import java.text.{ParseException, SimpleDateFormat}
 
 import scala.collection._
 import ctitc.seagoing.SEAGOING._
@@ -97,7 +97,7 @@ class PositionRules() extends Serializable{
   def positionJudge(vehiclePosition: VehiclePosition) : Any = {
     val stringBuilder = new StringBuilder
     // 1001
-    if( (10 < vehiclePosition.vehicleNo.length()) || (vehiclePosition.vehicleNo.length() < 6)) stringBuilder.append("1")
+    if((10 < vehiclePosition.vehicleNo.length()) || (vehiclePosition.vehicleNo.length() < 6)) stringBuilder.append("1")
     else stringBuilder.append("0")
 
     if(vehiclePosition.vehicleNo.length() > 0) {
@@ -109,9 +109,7 @@ class PositionRules() extends Serializable{
       }
 
       // 1003
-      Pattern p = Pattern.compile("^[A-Z]+[A-Z0-9]+[A-Z0-9挂学$]")
-      Matcher m = p.matcher(vehiclePosition.vehicleNo.substring(1).toUpperCase())
-      if(!m.matches()) {
+      if(!"^[A-Z]+[A-Z0-9]+[A-Z0-9挂学]$".r.pattern.matcher(vehiclePosition.vehicleNo.substring(1).toUpperCase()).matches()) {
         stringBuilder.append("1")
       } else stringBuilder.append("0")
     } else {
@@ -124,11 +122,44 @@ class PositionRules() extends Serializable{
     else stringBuilder.append("1")
 
     // 1202
+    if((vehiclePosition.gnss.lon < 73330000) || (vehiclePosition.gnss.lon > 135050000)) stringBuilder.append("1")
+    else stringBuilder.append("0")
 
+    // 1202
+    if((vehiclePosition.gnss.lat < 3510000) || (vehiclePosition.gnss.lat > 53330000)) stringBuilder.append("1")
+    else stringBuilder.append("0")
 
+    // 1301
+    if(vehiclePosition.gnss.getAltitude > 6000) stringBuilder.append("1")
+    else stringBuilder.append("0")
 
+    // 1402
+    if((vehiclePosition.gnss.getVec1 > 160) || (vehiclePosition.gnss.getVec1 < 0)) stringBuilder.append("1")
+    else stringBuilder.append("0")
 
+    // 1502
+    if((vehiclePosition.gnss.getDirection > 360) || (vehiclePosition.gnss.getDirection < 0)) stringBuilder.append("1")
+    else stringBuilder.append("0")
 
+    // 1601
+    try {
+      if("^\\d{4}-\\d{1,2}-\\d{1,2}\\s\\d{1,2}:\\d{1,2}:\\d{1,2}$".r.pattern.matcher(vehiclePosition.gnss.positionTime).matches()) {
+        val pTime = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").parse(vehiclePosition.gnss.positionTime).getTime / 1000
+        stringBuilder.append("0")
 
+        // 1602
+        if(vehiclePosition.updateTime >= pTime) stringBuilder.append("0")
+        else stringBuilder.append("1")
+
+      } else {
+        stringBuilder.append("1")
+        stringBuilder.append("1")
+      }
+    } catch {
+      case e:ParseException => {
+        stringBuilder.append("1")
+        stringBuilder.append("1")
+      }
+    }
   }
 }
