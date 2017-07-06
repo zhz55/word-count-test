@@ -7,773 +7,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de6ada87-8384-48f3-a4d5-06fdf22d0ef7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__asm_asm_3_1_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_google_code_gson_gson_2_2_4_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_google_guava_guava_11_0_2_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_jamesmurty_utils_java_xmlbuilder_0_4_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_jcraft_jsch_0_1_42_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_sun_jersey_jersey_core_1_9_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_sun_jersey_jersey_json_1_9_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_sun_jersey_jersey_server_1_9_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_sun_xml_bind_jaxb_impl_2_2_3_1_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_trueaccord_scalapb_compilerplugin_2_11_0_6_0_pre5_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_trueaccord_scalapb_protoc_bridge_2_11_0_2_6_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__commons_el_commons_el_1_0_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__commons_logging_commons_logging_1_1_3_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__javax_activation_activation_1_1_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__javax_servlet_jsp_jsp_api_2_1_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__javax_servlet_servlet_api_2_5_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__javax_xml_bind_jaxb_api_2_2_2_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__javax_xml_stream_stax_api_1_0_2_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__jline_jline_0_9_94_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_directory_api_api_asn1_api_1_0_0_M20_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_directory_api_api_util_1_0_0_M20_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_directory_server_apacheds_i18n_2_0_0_M15_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_httpcomponents_httpclient_4_2_5_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_httpcomponents_httpcore_4_2_4_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_codehaus_jackson_jackson_jaxrs_1_8_3_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_codehaus_jackson_jackson_xc_1_8_3_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_codehaus_jettison_jettison_1_1_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_htrace_htrace_core_3_0_4_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_mortbay_jetty_jetty_6_1_26_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__tomcat_jasper_compiler_5_5_23_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__tomcat_jasper_runtime_5_5_23_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/DateTest.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/RegexTest.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_google_guava_guava_14_0_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_commons_commons_math_2_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.history" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/word-count-test$sources_2.11/1.0/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/word-count-test$sources_2.11/1.0/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/word-count-test$sources_2.12/1.0/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/word-count-test$sources_2.12/1.0/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/word-count-test_2.11/1.0/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/word-count-test_2.11/1.0/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/word-count-test_2.12/1.0/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/word-count-test_2.12/1.0/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.11-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.11-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.11-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.11-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.11-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.11-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.11-protobuf.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.11-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.11-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.11-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.11-scala-tool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.11-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.11-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.11-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.12-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.12-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.12-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.12-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.12-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.12-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.12-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.12-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.12-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.12-scala-tool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.12-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.12-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test$sources_2.12-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.11-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.11-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.11-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.11-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.11-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.11-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.11-protobuf.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.11-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.11-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.11-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.11-scala-tool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.11-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.11-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.11-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.12-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.12-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.12-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.12-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.12-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.12-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.12-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.12-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.12-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.12-scala-tool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.12-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.12-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-word-count-test_2.12-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_univocity_univocity_parsers_2_2_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_antlr_antlr4_runtime_4_5_3_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_kudu_kudu_spark2_2_11_1_2_0_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_parquet_parquet_column_1_8_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_parquet_parquet_common_1_8_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_parquet_parquet_encoding_1_8_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_parquet_parquet_format_2_3_0_incubating_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_parquet_parquet_hadoop_1_8_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_parquet_parquet_jackson_1_8_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_spark_spark_catalyst_2_11_2_1_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_spark_spark_sketch_2_11_2_1_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_spark_spark_sql_2_11_2_1_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_codehaus_janino_commons_compiler_3_0_0_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_codehaus_janino_janino_3_0_0_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/rules/KuduRules.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_trueaccord_scalapb_compilerplugin_2_11_0_6_0_pre5_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_trueaccord_scalapb_protoc_bridge_2_11_0_2_6_jar.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/KafkaTest$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/KafkaTest$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$3.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/KafkaTest$$anonfun$main$1$$anonfun$apply$1.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/KafkaTest$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/KafkaTest$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/KafkaTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/PBTest$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/PBTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/SparkTest$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/SparkTest$$anonfun$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/SparkTest$$anonfun$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/SparkTest$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/SparkTest$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/SparkTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/WordCount$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/WordCount$$anonfun$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/WordCount$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/WordCount$$anonfun$main$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/WordCount$$anonfun$main$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/WordCount$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/WordCount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$__computeSerializedValue$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$__computeSerializedValue$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$__computeSerializedValue$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$__computeSerializedValue$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$__computeSerializedValue$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$__computeSerializedValue$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$fromFieldsMap$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$fromFieldsMap$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$fromFieldsMap$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$fromFieldsMap$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$fromFieldsMap$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$fromFieldsMap$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$fromFieldsMap$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$fromFieldsMap$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$getField$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$getField$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$getField$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$getField$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$getField$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$getField$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$messageReads$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$messageReads$1$$anonfun$apply$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$messageReads$1$$anonfun$apply$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$messageReads$1$$anonfun$apply$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$messageReads$1$$anonfun$apply$13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$messageReads$1$$anonfun$apply$14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$messageReads$1$$anonfun$apply$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$messageReads$1$$anonfun$apply$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$messageReads$1$$anonfun$apply$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$messageReads$1$$anonfun$apply$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$messageReads$1$$anonfun$apply$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$messageReads$1$$anonfun$apply$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$messageReads$1$$anonfun$apply$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$messageReads$1$$anonfun$apply$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$messageReads$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$writeTo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$writeTo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$writeTo$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$writeTo$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$writeTo$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$$anonfun$writeTo$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$EstuaryLens$$anonfun$providerInfo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$EstuaryLens$$anonfun$providerInfo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$EstuaryLens$$anonfun$riverType$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$EstuaryLens$$anonfun$riverType$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$EstuaryLens$$anonfun$vehBaseInfo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$EstuaryLens$$anonfun$vehBaseInfo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$EstuaryLens$$anonfun$vehTermReg$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$EstuaryLens$$anonfun$vehTermReg$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$EstuaryLens$$anonfun$vehicleDriverInfo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$EstuaryLens$$anonfun$vehicleDriverInfo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$EstuaryLens$$anonfun$vehicleEwayBill$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$EstuaryLens$$anonfun$vehicleEwayBill$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$EstuaryLens$$anonfun$vehiclePosition$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$EstuaryLens$$anonfun$vehiclePosition$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary$EstuaryLens.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Estuary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$fromFieldsMap$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$fromFieldsMap$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getAlarm$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getAltitude$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getDirection$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getEncrypt$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getField$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getState$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getVec1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getVec2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$getVec3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$messageReads$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$messageReads$1$$anonfun$apply$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$messageReads$1$$anonfun$apply$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$messageReads$1$$anonfun$apply$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$messageReads$1$$anonfun$apply$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$messageReads$1$$anonfun$apply$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$messageReads$1$$anonfun$apply$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$messageReads$1$$anonfun$apply$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$messageReads$1$$anonfun$apply$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$messageReads$1$$anonfun$apply$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$messageReads$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$writeTo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$writeTo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$writeTo$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$writeTo$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$writeTo$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$writeTo$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$writeTo$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$$anonfun$writeTo$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$alarm$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$alarm$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$altitude$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$altitude$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$direction$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$direction$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$encrypt$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$encrypt$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$lat$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$lat$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$lon$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$lon$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalAlarm$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalAlarm$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalAltitude$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalAltitude$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalDirection$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalDirection$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalEncrypt$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalEncrypt$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalState$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalState$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalVec1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalVec1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalVec2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalVec2$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalVec3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$optionalVec3$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$positionTime$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$positionTime$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$state$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$state$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$vec1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$vec1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$vec2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$vec2$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$vec3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens$$anonfun$vec3$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss$GnssLens.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/Gnss.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$fromFieldsMap$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$fromFieldsMap$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getAddress$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getCity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getCompany$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getContant$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getContantPhone$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getEmail$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$20.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$21.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$22.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$23.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$24.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$25.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$26.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$27.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$28.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getField$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getInCharge$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getInChargePhone$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getInChargeTele$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getPlatformId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getPlatformName$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getProvince$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getReserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$getZipCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1$$anonfun$apply$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$messageReads$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$writeTo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$writeTo$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$writeTo$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$writeTo$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$writeTo$13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$writeTo$14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$writeTo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$writeTo$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$writeTo$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$writeTo$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$writeTo$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$writeTo$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$writeTo$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$$anonfun$writeTo$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$address$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$address$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$city$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$city$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$company$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$company$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$contant$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$contant$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$contantPhone$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$contantPhone$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$email$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$email$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$inCharge$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$inCharge$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$inChargePhone$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$inChargePhone$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$inChargeTele$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$inChargeTele$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalAddress$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalAddress$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalCity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalCity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalCompany$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalCompany$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalContant$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalContant$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalContantPhone$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalContantPhone$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalEmail$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalEmail$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalInCharge$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalInCharge$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalInChargePhone$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalInChargePhone$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalInChargeTele$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalInChargeTele$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalPlatformId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalPlatformId$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalPlatformName$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalPlatformName$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalProvince$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalProvince$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalReserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalReserved$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalZipCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$optionalZipCode$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$platformId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$platformId$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$platformName$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$platformName$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$providerId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$providerId$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$province$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$province$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$reserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$reserved$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$zipCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens$$anonfun$zipCode$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo$ProviderInfoLens.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/ProviderInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/RriverType$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/RriverType$Unrecognized$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/RriverType$Unrecognized.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/RriverType$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/RriverType$providerInfo$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/RriverType$vehBaseInfo$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/RriverType$vehTermRegVehTermReg$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/RriverType$vehicleDriverInfo$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/RriverType$vehicleEwayBill$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/RriverType$vehiclePosition$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/RriverType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/SEAGOINGProto$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/SEAGOINGProto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$fromFieldsMap$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$fromFieldsMap$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$getAccessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$getField$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$getField$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$getField$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$getField$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$getField$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$getField$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$getField$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$getField$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$getField$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$getField$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$getOwnerPhone$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$getPlateColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$getProviderId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$getReserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$messageReads$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$messageReads$1$$anonfun$apply$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$messageReads$1$$anonfun$apply$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$messageReads$1$$anonfun$apply$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$messageReads$1$$anonfun$apply$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$messageReads$1$$anonfun$apply$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$messageReads$1$$anonfun$apply$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$messageReads$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$writeTo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$writeTo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$writeTo$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$writeTo$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$$anonfun$writeTo$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$accessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$accessCode$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$optionalAccessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$optionalAccessCode$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$optionalOwnerPhone$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$optionalOwnerPhone$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$optionalPlateColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$optionalPlateColor$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$optionalProviderId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$optionalProviderId$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$optionalReserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$optionalReserved$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$ownerPhone$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$ownerPhone$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$plateColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$plateColor$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$providerId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$providerId$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$reserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$reserved$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$vehicleNo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens$$anonfun$vehicleNo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo$VehBaseInfoLens.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehBaseInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$fromFieldsMap$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$fromFieldsMap$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getAccessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getField$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getPlateColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getPlatformId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getProducerId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getProducerName$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getReserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getTerminalId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getTerminalModelType$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$getTerminalSim$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$messageReads$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$messageReads$1$$anonfun$apply$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$messageReads$1$$anonfun$apply$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$messageReads$1$$anonfun$apply$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$messageReads$1$$anonfun$apply$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$messageReads$1$$anonfun$apply$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$messageReads$1$$anonfun$apply$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$messageReads$1$$anonfun$apply$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$messageReads$1$$anonfun$apply$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$messageReads$1$$anonfun$apply$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$messageReads$1$$anonfun$apply$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$messageReads$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$writeTo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$writeTo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$writeTo$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$writeTo$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$writeTo$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$writeTo$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$writeTo$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$writeTo$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$$anonfun$writeTo$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$accessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$accessCode$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalAccessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalAccessCode$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalPlateColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalPlateColor$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalPlatformId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalPlatformId$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalProducerId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalProducerId$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalProducerName$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalProducerName$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalReserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalReserved$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalTerminalId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalTerminalId$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalTerminalModelType$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalTerminalModelType$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalTerminalSim$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$optionalTerminalSim$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$plateColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$plateColor$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$platformId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$platformId$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$producerId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$producerId$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$producerName$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$producerName$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$reserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$reserved$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$terminalId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$terminalId$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$terminalModelType$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$terminalModelType$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$terminalSim$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$terminalSim$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$vehicleNo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens$$anonfun$vehicleNo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg$VehTermRegLens.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehTermReg.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$fromFieldsMap$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$fromFieldsMap$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getAccessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getDriverId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getDriverName$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getField$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getField$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getField$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getField$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getField$13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getField$14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getField$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getField$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getField$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getField$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getField$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getField$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getField$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getField$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getLicence$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getOrgName$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getPlateColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$getReserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$messageReads$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$messageReads$1$$anonfun$apply$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$messageReads$1$$anonfun$apply$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$messageReads$1$$anonfun$apply$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$messageReads$1$$anonfun$apply$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$messageReads$1$$anonfun$apply$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$messageReads$1$$anonfun$apply$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$messageReads$1$$anonfun$apply$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$messageReads$1$$anonfun$apply$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$messageReads$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$writeTo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$writeTo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$writeTo$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$writeTo$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$writeTo$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$writeTo$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$$anonfun$writeTo$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$accessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$accessCode$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$driverId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$driverId$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$driverName$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$driverName$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$licence$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$licence$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$optionalAccessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$optionalAccessCode$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$optionalDriverId$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$optionalDriverId$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$optionalDriverName$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$optionalDriverName$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$optionalLicence$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$optionalLicence$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$optionalOrgName$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$optionalOrgName$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$optionalPlateColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$optionalPlateColor$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$optionalReserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$optionalReserved$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$orgName$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$orgName$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$plateColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$plateColor$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$reserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$reserved$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$vehicleNo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens$$anonfun$vehicleNo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo$VehicleDriverInfoLens.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleDriverInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$fromFieldsMap$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$fromFieldsMap$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$getAccessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$getEwayBill$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$getField$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$getField$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$getField$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$getField$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$getField$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$getField$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$getField$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$getField$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$getPlateColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$getReserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$messageReads$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$messageReads$1$$anonfun$apply$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$messageReads$1$$anonfun$apply$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$messageReads$1$$anonfun$apply$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$messageReads$1$$anonfun$apply$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$messageReads$1$$anonfun$apply$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$messageReads$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$writeTo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$writeTo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$writeTo$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$$anonfun$writeTo$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$accessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$accessCode$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$ewayBill$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$ewayBill$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$optionalAccessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$optionalAccessCode$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$optionalEwayBill$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$optionalEwayBill$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$optionalPlateColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$optionalPlateColor$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$optionalReserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$optionalReserved$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$plateColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$plateColor$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$reserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$reserved$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$vehicleNo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens$$anonfun$vehicleNo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill$VehicleEwayBillLens.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehicleEwayBill.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$fromFieldsMap$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$fromFieldsMap$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$getCurAccessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$getField$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$getField$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$getField$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$getField$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$getField$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$getField$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$getField$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$getField$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$getPlateColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$getReserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$getTrans$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$messageReads$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$messageReads$1$$anonfun$apply$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$messageReads$1$$anonfun$apply$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$messageReads$1$$anonfun$apply$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$messageReads$1$$anonfun$apply$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$messageReads$1$$anonfun$apply$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$messageReads$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$writeTo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$writeTo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$writeTo$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$$anonfun$writeTo$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$accessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$accessCode$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$city$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$city$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$curAccessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$curAccessCode$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$gnss$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$gnss$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$optionalCurAccessCode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$optionalCurAccessCode$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$optionalPlateColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$optionalPlateColor$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$optionalReserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$optionalReserved$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$optionalTrans$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$optionalTrans$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$plateColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$plateColor$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$reserved$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$reserved$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$trans$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$trans$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$updateTime$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$updateTime$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$vehicleNo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens$$anonfun$vehicleNo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition$VehiclePositionLens.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ctitc/seagoing/SEAGOING/VehiclePosition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/rules/PositionRules.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/ssExtractDependencies/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/KafkaTest$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/KafkaTest$.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/word_count_test_jar.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/word_count_test_jar.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/word-count-test.iml" afterPath="$PROJECT_DIR$/.idea/modules/word-count-test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -794,29 +50,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-word-count-test-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-word-count-test-build-test-internal.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-word-count-test-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-word-count-test-build-test.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/DateTest.scala" afterPath="$PROJECT_DIR$/src/main/scala/DateTest.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/KafkaTest.scala" afterPath="$PROJECT_DIR$/src/main/scala/KafkaTest.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/rules/PositionRules.scala" afterPath="$PROJECT_DIR$/src/main/scala/rules/PositionRules.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__commons_io_commons_io_2_1_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__commons_io_commons_io_2_5_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__commons_lang_commons_lang_2_5_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__commons_lang_commons_lang_2_6_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__commons_net_commons_net_2_2_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__commons_net_commons_net_3_1_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__net_java_dev_jets3t_jets3t_0_7_1_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__net_java_dev_jets3t_jets3t_0_9_0_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_curator_curator_client_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_curator_curator_client_2_6_0_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_curator_curator_framework_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_curator_curator_framework_2_6_0_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_curator_curator_recipes_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_curator_curator_recipes_2_6_0_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_hadoop_hadoop_annotations_2_2_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_hadoop_hadoop_annotations_2_6_0_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_hadoop_hadoop_auth_2_2_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_hadoop_hadoop_auth_2_6_0_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_hadoop_hadoop_common_2_2_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_hadoop_hadoop_common_2_6_0_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_zookeeper_zookeeper_3_4_5_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_zookeeper_zookeeper_3_4_6_jar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__commons_codec_commons_codec_1_4_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__commons_codec_commons_codec_1_10_jar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__commons_io_commons_io_2_5_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__commons_io_commons_io_2_4_jar.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -844,38 +81,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="KafkaTest.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/KafkaTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MANIFEST.MF" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/rescources/META-INF/MANIFEST.MF">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -909,11 +115,13 @@
         <option value="$PROJECT_DIR$/src/main/protobuf/ctitc/seagoing/SEAGOING/Gnss.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/RegexTest.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/rules/PositionRules.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/DateTest.scala" />
         <option value="$PROJECT_DIR$/project/scalapb.sbt" />
-        <option value="$PROJECT_DIR$/src/main/scala/KafkaTest.scala" />
         <option value="$PROJECT_DIR$/assembly.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/rules/InsertKuduRules.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/DateTest.scala" />
         <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/rules/KuduRules.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/KafkaTest.scala" />
       </list>
     </option>
   </component>
@@ -942,7 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -974,6 +181,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="word-count-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="word-count-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1055,16 +288,17 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.40092167" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.module/jackson-module-paranamer/bundles/jackson-module-paranamer-2.6.5.jar!/" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1084,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KafkaTest">
+  <component name="RunManager" selected="Application.DateTest">
     <configuration default="false" name="KafkaTest" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="KafkaTest" />
@@ -1441,8 +675,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.KafkaTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DateTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DateTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.KafkaTest" />
         <item index="2" class="java.lang.String" itemvalue="Application.RegexTest" />
         <item index="3" class="java.lang.String" itemvalue="Application.PBTest" />
         <item index="4" class="java.lang.String" itemvalue="JAR Application.word-count-test.jar" />
@@ -1450,7 +684,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1499164788666" />
+    <option name="lastUpdateTimestamp" value="1499330300176" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -1507,7 +741,14 @@
       <option name="project" value="LOCAL" />
       <updated>1499076907752</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rules">
+      <created>1499166645944</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1499166645944</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1521,7 +762,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="2064" height="1128" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997987" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1533,19 +773,19 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36873156" sideWeight="0.5058594" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36873156" sideWeight="0.49414062" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36873156" sideWeight="0.49414062" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32940018" sideWeight="0.4970703" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122558594" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122558594" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1572,13 +812,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/WordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1590,7 +823,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#45#78#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1648,7 +884,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#45#78#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1656,7 +895,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
           <caret line="37" column="15" lean-forward="false" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#45#78#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1735,7 +977,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#45#78#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1777,13 +1022,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/WordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/ProtobufTest.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/protobuf/ctitc/seagoing/SEAGOING/SEAGOINGProto.scala">
       <provider selected="true" editor-type-id="text-editor">
@@ -1813,17 +1051,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/SparkTest.scala">
+    <entry file="file://$PROJECT_DIR$/project/assembly.sbt" />
+    <entry file="file://$PROJECT_DIR$/project/build.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/RegexTest.scala">
+    <entry file="file://$PROJECT_DIR$/assembly.sbt" />
+    <entry file="file://$PROJECT_DIR$/src/main/rescources/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="17" column="75" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="75" />
+        <state relative-caret-position="494">
+          <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/WordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/scalapb.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="82" />
         </state>
       </provider>
     </entry>
@@ -1834,58 +1088,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/RegexTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SparkTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/DateTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="361">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/rules/PositionRules.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="115" column="19" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="116" selection-end-column="31" />
+        <state relative-caret-position="2089">
+          <caret line="145" column="0" lean-forward="false" selection-start-line="145" selection-start-column="0" selection-end-line="146" selection-end-column="119" />
+          <folding>
+            <element signature="e#60#111#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/assembly.sbt" />
-    <entry file="file://$PROJECT_DIR$/project/build.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/rules/KuduRules.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assembly.sbt" />
-    <entry file="file://$PROJECT_DIR$/project/scalapb.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="54" />
-          <folding />
+        <state relative-caret-position="640">
+          <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <folding>
+            <element signature="e#15#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        <state relative-caret-position="190">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/KafkaTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/rescources/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="621">
+          <caret line="51" column="56" lean-forward="false" selection-start-line="51" selection-start-column="56" selection-end-line="51" selection-end-column="56" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#45#78#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1920,7 +1181,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala-sdk-2.12.2</last-edited>
+          <last-edited>scala-sdk-2.11.11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1949,6 +1210,7 @@
             <option name="proportions">
               <list>
                 <option value="0.40092167" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1968,7 +1230,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>SBT: com.trueaccord.scalapb:scalapb-runtime_2.11:0.6.0-pre5:jar</last-edited>
+          <last-edited>SBT: com.fasterxml.jackson.core:jackson-databind:2.6.5:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
