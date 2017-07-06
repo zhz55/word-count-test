@@ -39,14 +39,16 @@ object KafkaTest {
     val kuduContext = new KuduContext("nn01")
     val positionRules = new PositionRules
     val kuduRules = new KuduRules
-
+    case class recordintoschema(any: Any)
     stream.foreachRDD(rdd => {
       if(!rdd.isEmpty()) {
         val sparkSession = SparkSession.builder().config(rdd.sparkContext.getConf).getOrCreate()
-        rdd.foreachPartition(partitionRecords => {
+        import sparkSession.implicits._
+        if(rdd)
+        kuduContext.insertIgnoreRows(rdd.map(record => recordintoschema(record)).toDF(),
+          "")
 
-        })
-          import sparkSession.implicits._
+          //import sparkSession.implicits._
           /*
           partitionRecords.map(record => {
             if(!{if(VehiclePosition.parseFrom(record.value()).accessCode
@@ -59,6 +61,20 @@ object KafkaTest {
 
       }
     })
+
+    stream.foreachRDD(rdd => {
+      if(!rdd.isEmpty()) {
+
+        rdd.foreachPartition(partitionRecords => {
+          val sparkSession = SparkSession.builder().getOrCreate()
+          import sparkSession.implicits._
+          partitionRecords.map(record => (VehiclePosition.parseFrom(record.value()),
+            {if(VehiclePosition.parseFrom(record.value()).accessCode
+              == positionRules.repeatFilter(record.partition())) 0 else 1},
+            positionRules.positionJudge(VehiclePosition.parseFrom(record.value())))
+          ).map(record => recordintoschema(record)).toDF()
+        })
+      }
 
     //ssc.checkpoint("/Users/kasim/workspace/")
     ssc.start()
