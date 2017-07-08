@@ -3,6 +3,7 @@ package rules
 import java.text.SimpleDateFormat
 
 import ctitc.seagoing.SEAGOING.VehiclePosition
+import org.apache.kafka.clients.consumer.ConsumerRecord
 import org.apache.kudu.spark.kudu._
 import org.apache.spark.SparkContext
 import org.apache.spark.rdd.RDD
@@ -23,7 +24,7 @@ class KuduRules extends Serializable {
                                            vec1 : Int, vec2 : Int, vec3 : Int,
                                            direction : Int, altitude : Int,
                                            state : Long, alarm : Long,
-                                           reserved : String, errorcode : Long,
+                                           reserved : String, errorcode : String,
                                            roadcode : Int)
 
   def insertKudu(vehiclePosition: VehiclePosition, errorOrNot: String) : TableStructureVehiclePosition = {
@@ -39,10 +40,10 @@ class KuduRules extends Serializable {
       vehiclePosition.gnss.getVec1, vehiclePosition.gnss.getVec2, vehiclePosition.gnss.getVec3,
       vehiclePosition.gnss.getDirection, vehiclePosition.gnss.getAltitude,
       vehiclePosition.gnss.getState, vehiclePosition.gnss.getAlarm,
-      vehiclePosition.getReserved, errorOrNot.toLong, 0)
+      vehiclePosition.getReserved, errorOrNot, 0)
   }
 
-  def insertKudu(rDD: RDD[_]) : Any = {
+  def testPartitions(iterator: Iterator[ConsumerRecord()]) : Any = {
 
   }
 }

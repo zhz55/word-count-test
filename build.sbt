@@ -10,8 +10,7 @@ libraryDependencies ++= Seq(
   "org.apache.spark" % "spark-streaming-kafka-0-10_2.11" % "2.1.1",
   "org.apache.spark" % "spark-sql_2.11" % "2.1.1",
   "org.apache.hadoop" % "hadoop-common" % "2.6.0",
-  "org.apache.kudu" % "kudu-client" % "1.2.0",
-  "org.apache.kudu" % "kudu-spark2_2.11" % "1.2.0"
+  "org.apache.kudu" % "kudu-client" % "1.2.0"
 )
 
 PB.targets in Compile := Seq(
@@ -19,3 +18,4 @@ PB.targets in Compile := Seq(
 )
 
 // += "org.apache.kafka" % "kafka_2.11" % "0.10.2.0"
+//   "org.apache.kudu" % "kudu-spark2_2.11" % "1.2.0"

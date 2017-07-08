@@ -118,7 +118,7 @@ class PositionRules() extends Serializable{
     }
 
     // 1101
-    if(((vehiclePosition.getPlateColor > 0)  && vehiclePosition.getPlateColor < 5) || vehiclePosition.getPlateColor == 8 || vehiclePosition.getPlateColor == 9) stringBuilder.append("0")
+    if(((vehiclePosition.getPlateColor > 0)  && (vehiclePosition.getPlateColor < 5)) || vehiclePosition.getPlateColor == 8 || vehiclePosition.getPlateColor == 9) stringBuilder.append("0")
     else stringBuilder.append("1")
 
     // 1202
