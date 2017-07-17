@@ -2,88 +2,75 @@
   * Created by kasim on 2017/6/22.
   */
 
-import java.text.SimpleDateFormat
-
-import org.apache.spark.SparkConf
-import org.apache.spark.streaming.Seconds
+import kafka.serializer.StringDecoder
+import org.apache.kafka.clients.consumer.{ConsumerRecord, KafkaConsumer}
+import org.apache.kafka.common.TopicPartition
 import org.apache.kafka.common.serialization.StringDeserializer
+import org.apache.spark.rdd.RDD
+import org.apache.spark.streaming.Seconds
 import org.apache.spark.streaming.StreamingContext
-import org.apache.spark.streaming.kafka010._
+import org.apache.spark.streaming.dstream.InputDStream
+import org.apache.spark.streaming.kafka010.KafkaUtils
 import org.apache.spark.streaming.kafka010.LocationStrategies.PreferConsistent
-import org.apache.spark.streaming.kafka010.ConsumerStrategies.Subscribe
-import org.apache.spark.sql._
-import ctitc.seagoing.SEAGOING._
-import rules._
+import org.apache.spark.streaming.kafka010.ConsumerStrategies._
+import stores.{OffsetsStore, ZooKeeperOffsetsStore}
 
 object KafkaTest {
 
   def main(args: Array[String]): Unit = {
-   // val conf = new SparkConf().setAppName("KafkaSpark").setMaster("local[*]")
-    val ssc = new StreamingContext("local[*]", "KafkaSpark", Seconds(10))
+
+    val ssc = new StreamingContext("local[2]", "KafkaSpark", Seconds(10))
 
     val kafkaParams = Map[String, Object](
-      "bootstrap.servers" -> "kf01:9092,kf02:9092,kf03:9092,kf04:9092,kf05:9092",
+      "bootstrap.servers" -> "zk01:9092,zk02:9092,zk00:9092",
       "key.deserializer" -> classOf[StringDeserializer],
-      "value.deserializer" -> classOf[org.apache.kafka.common.serialization.ByteArrayDeserializer],
-      "group.id" -> "scala_kafka_test1",
+      "value.deserializer" -> classOf[StringDeserializer],
+      "group.id" -> "scala_kafka_test2",
       "auto.offset.reset" -> "latest",
       "enable.auto.commit" -> (false: java.lang.Boolean)
     )
 
-    val topics = Array("LWLK_POSITION")
-    val stream = KafkaUtils.createDirectStream[String, Array[Byte]](
-      ssc,
-      PreferConsistent,
-      Subscribe[String, Array[Byte]](topics, kafkaParams)
-    )
+    def kafkaStream(ssc: StreamingContext, kafkaParams: Map[String, Object], offsetsStore: OffsetsStore, topic: String): InputDStream[ConsumerRecord[String, String]] = {
 
-    val positionRules = new PositionRules
-    //val kuduRules = new KuduRules
-    val kuduContext = new KuduContext("nn01")
+      val topics = Set(topic)
 
-    /*
-    stream.foreachRDD(rdd => {
-      if(!rdd.isEmpty()) {
-        val sparkSession = SparkSession.builder().config(rdd.sparkContext.getConf).getOrCreate()
-        import sparkSession.implicits._
+      val storedOffsets = offsetsStore.readOffsets(topic)
 
-        if(rdd)
-        kuduContext.insertIgnoreRows(rdd.map(record => recordintoschema(record)).toDF(),
-          "")
-
-          //import sparkSession.implicits._
-          /*
-          partitionRecords.map(record => {
-            if(!{if(VehiclePosition.parseFrom(record.value()).accessCode
-                  == positionRules.repeatFilter(record.partition())) false else true}) {
-              kuduRules.insertKudu(VehiclePosition.parseFrom(record.value()),
-                positionRules.positionJudge(VehiclePosition.parseFrom(record.value())).toString)
-            }
-          }) */
-
-
+      val kafkaStream = storedOffsets match {
+        case None =>
+          // start from the latest offsets
+          KafkaUtils.createDirectStream[String, String](
+            ssc,
+            PreferConsistent,
+            Subscribe[String, String](topics, kafkaParams))
+        case Some(fromOffsets) =>
+          // start from previously saved offsets
+          KafkaUtils.createDirectStream[String, String](
+            ssc,
+            PreferConsistent,
+            Subscribe[String, String](topics, kafkaParams, fromOffsets))
       }
+
+      // save the offsets
+      kafkaStream.foreachRDD(rdd => offsetsStore.saveOffsets(topic, rdd))
+
+      kafkaStream
+    }
+
+    val topics = Array("ZK_TEST_1", "ZK_TEST_2")
+    val zkHosts = "zk00:2181,zk01:2181,zk02:2181"
+    val zkPath1 = "/ZK_TEST/LOGS/3"
+    val zkPath2 = "/ZK_TEST/LOGS/4"
+
+    val stream1 = kafkaStream(ssc, kafkaParams, new ZooKeeperOffsetsStore(zkHosts, zkPath1), topics(0))
+    val stream2 = kafkaStream(ssc, kafkaParams, new ZooKeeperOffsetsStore(zkHosts, zkPath2), topics(1))
+
+    stream1.union(stream2).foreachRDD(rdd => {
+      rdd.foreachPartition(partitionRecord => {
+        partitionRecord.foreach(println(_))
+      })
     })
-    */
-    stream.foreachRDD(rdd => {
-      if(!rdd.isEmpty()) {
 
-      }
-    })
-/*
-
-    stream.foreachRDD(rdd => {
-      if(!rdd.isEmpty()) {
-        rdd.foreachPartition(partitionRecords => {
-          partitionRecords.map(record => (VehiclePosition.parseFrom(record.value()),
-            {if(VehiclePosition.parseFrom(record.value()).accessCode
-              == positionRules.repeatFilter(record.partition())) 0 else 1},
-            positionRules.positionJudge(VehiclePosition.parseFrom(record.value())))
-          )
-        })
-      }
-*/
-    //ssc.checkpoint("/Users/kasim/workspace/")
     ssc.start()
     ssc.awaitTermination()
   }

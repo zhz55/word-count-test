@@ -6888,7 +6888,7 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 4999ms :: artifacts dl 109ms
+[debug] :: resolution report :: resolve 3726ms :: artifacts dl 132ms
 [debug] 	report for default#word-count-test-build;0.1-SNAPSHOT compile produced in E:\workspace-linux\scala\word-count-test\project\target\resolution-cache\reports\default-word-count-test-build-compile.xml
 [debug] 	report for default#word-count-test-build;0.1-SNAPSHOT runtime produced in E:\workspace-linux\scala\word-count-test\project\target\resolution-cache\reports\default-word-count-test-build-runtime.xml
 [debug] 	report for default#word-count-test-build;0.1-SNAPSHOT test produced in E:\workspace-linux\scala\word-count-test\project\target\resolution-cache\reports\default-word-count-test-build-test.xml
@@ -6902,5 +6902,5 @@
 [debug] 	report for default#word-count-test-build;0.1-SNAPSHOT docs produced in E:\workspace-linux\scala\word-count-test\project\target\resolution-cache\reports\default-word-count-test-build-docs.xml
 [debug] 	report for default#word-count-test-build;0.1-SNAPSHOT pom produced in E:\workspace-linux\scala\word-count-test\project\target\resolution-cache\reports\default-word-count-test-build-pom.xml
 [debug] 	report for default#word-count-test-build;0.1-SNAPSHOT scala-tool produced in E:\workspace-linux\scala\word-count-test\project\target\resolution-cache\reports\default-word-count-test-build-scala-tool.xml
-[debug] 	resolve done (4999ms resolve - 109ms download)
+[debug] 	resolve done (3726ms resolve - 132ms download)
 [info] Done updating.

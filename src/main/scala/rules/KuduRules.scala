@@ -3,12 +3,6 @@ package rules
 import java.text.SimpleDateFormat
 
 import ctitc.seagoing.SEAGOING.VehiclePosition
-import org.apache.kafka.clients.consumer.ConsumerRecord
-import org.apache.kudu.spark.kudu._
-import org.apache.spark.SparkContext
-import org.apache.spark.rdd.RDD
-import org.apache.spark.sql.SparkSession
-import org.apache.spark.sql.types.StructType
 
 /**
   * Created by Kasim on 2017/7/6.
@@ -41,9 +35,5 @@ class KuduRules extends Serializable {
       vehiclePosition.gnss.getDirection, vehiclePosition.gnss.getAltitude,
       vehiclePosition.gnss.getState, vehiclePosition.gnss.getAlarm,
       vehiclePosition.getReserved, errorOrNot, 0)
-  }
-
-  def testPartitions(iterator: Iterator[ConsumerRecord()]) : Any = {
-
   }
 }
