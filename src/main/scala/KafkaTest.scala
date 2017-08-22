@@ -10,10 +10,9 @@ import org.apache.spark.rdd.RDD
 import org.apache.spark.streaming.Seconds
 import org.apache.spark.streaming.StreamingContext
 import org.apache.spark.streaming.dstream.InputDStream
-import org.apache.spark.streaming.kafka010.KafkaUtils
-import org.apache.spark.streaming.kafka010.LocationStrategies.PreferConsistent
-import org.apache.spark.streaming.kafka010.ConsumerStrategies._
-import stores.{OffsetsStore, ZooKeeperOffsetsStore}
+//import org.apache.spark.streaming.kafka010.KafkaUtils
+//import org.apache.spark.streaming.kafka010.LocationStrategies.PreferConsistent
+//import org.apache.spark.streaming.kafka010.ConsumerStrategies._
 
 object KafkaTest {
 
@@ -29,7 +28,7 @@ object KafkaTest {
       "auto.offset.reset" -> "latest",
       "enable.auto.commit" -> (false: java.lang.Boolean)
     )
-
+/*
     def kafkaStream(ssc: StreamingContext, kafkaParams: Map[String, Object], offsetsStore: OffsetsStore, topic: String): InputDStream[ConsumerRecord[String, String]] = {
 
       val topics = Set(topic)
@@ -70,7 +69,7 @@ object KafkaTest {
         partitionRecord.foreach(println(_))
       })
     })
-
+*/
     ssc.start()
     ssc.awaitTermination()
   }
